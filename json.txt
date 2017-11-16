@@ -4,6 +4,6 @@
   "apk_file_url": "https://github.com/cimsun/cimfax-update/blob/master/cimfax_android.apk?raw=true",
   "update_log": "1，修改相关bug \r\n2，添加自动更新功能 \r\n3，进行代码混淆 \r\n4，添加放弃任务接口，小时内不生成 \r\n5，消费任务手动生成",
   "target_size": "35M",
-  "new_md5":"295687E756F569C7159974DD493489A5",
+  "new_md5":"f6a00520d6d6f71177b815da900a541b",
   "constraint": false
 }
