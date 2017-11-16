@@ -1,0 +1,416 @@
+﻿多语言		中文		备注		英文		韩文		日文		西班牙语		俄语					
+																			
+text_language		语言				Language		언어		言語		Idioma		Язык					
+text_forget_password		忘记密码?				Forget password?		비밀번호를 잊어버렸나요?		パスワードを忘れた?		Olvidar contraseña?		Забыть пароль?					
+action_sign_in		登录				Log in		로그인		ログイン		Iniciar sesión		Вход					
+action_create_new_account		创建新帐号				Create new account		계정 만들기		新しいアカウントを作成		Crear nueva cuenta		Создать новую учетную запись					
+text_more		更多				More		더 보기		もっと		Más		Больше					
+text_remember_password		记住密码				Remember password		비밀번호 저장		パスワードを記憶		Recordar contraseña		Запомнить пароль					
+text_automatic_login		自动登录				Log in automatically		자동 로그인		自動的にログイン		Iniciar sesión automáticamente		Автозапуск					
+text_retrieve_password		找回密码				Find password		비밀번호 찾기 		パスワードを探す		Encontrar contraseña		Восстановление пароля					
+msg_cloud_account		云帐号				Cloud account		클라우드 계정		クラウドアカウント		Cuenta de Cloud		Облачная учетная запись					
+msg_local_account		本地帐号				Local account		로컬 계정		ローカルアカウント		Cuenta local		Местная учетная запись					
+hint_password		密码				Password		비밀번호		パスワード		Contraseña		Пароль					
+text_account_inexistence		账号不存在				Account does't exist		입력하신 아이디가 존재하지 않습니다.		存在しないアカウント		Cuenta no existe		Учетная запись не существует.					
+																			
+text_create_account		创建帐号				Create account		새로 만들기		アカウントを作成		Crear cuenta		Создать учетную запись					
+text_account_name		帐户名				Account name		계정		アカウント名		Nombre de cuenta		Логин					
+text_enter_password		输入密码				Enter password		비밀번호 입력		パスワードを入力		Entrar contraseña		Пароль					
+text_enter_password_again		确认密码				Enter password again		비밀번호 재입력		パスワードを確認		Entrar contraseña de nuevo		Повторите пароль					
+action_ok		确认				OK		확인		確認		OK		OK					
+action_register		注册				Register		계정 만들기		登録する		Registrar		Регистрация					
+text_faxgo_smart_fax		FAXGO智能传真				FAXGO smart fax		FAXGO 스마트 팩스		FAXGOスマートファクス		FAXGO fax inteligente		FAXGO смарт факс					
+text_please_add_a_device		请添加设备				Please add a device		디바이스를 추가해 주세요.		設備を追加してください		Agregue un dispositivo		Добавьте устройство.					
+text_all_devices		全部设备				All devices		모든 디바이스		全ての設備		Todos dispositivos		Все устройства					
+text_no_new_fax		暂无新的传真				No new fax		새 팩스가 없습니다.				No hay nuevo fax		Пока нет нового факса.					
+text_outbox_empty		发件箱空空如也				Outbox is empty		팩스 없음		送信箱には何もない		El buzón de salida está vacío		Пустые					
+text_recycle_bin_empty		暂无删除传真				Recycle bin is empty		삭제된 팩스 없음		ゴミ箱には何もない		La papelera está vacía		Пустые					
+tips_sending_fax_now		马上发送传真				Try sending a fax now		팩스 전송 해보세요~ 		今すぐ送信しましょう		Pruebe enviar un fax ahora		Отправить факс сейчас.					
+tips_add_device_now		马上添加设备				Try adding a device now		디바이스 추가 해보세요~		今すぐ設備を追加		Pruebe agregar un dispositivo ahora		Добавить устройство сейчас.					
+tips_please_select_server_to_fax		请选择服务器发送传真				Please choose a device to send fax		디바이스 선택하여 팩스 전송		サーバを選択して送信する		Elija un dispositivo para enviar fax		Выберите сервер для отправки факса. 					
+text_inbox		收件箱				Inbox		받은 팩스함		受信箱		Buzón de entrada		Входящие					
+text_outbox		发件箱				Outbox		보낸 팩스함		送信箱		Buzón de salida		Отправленные					
+text_favorites		收藏夹				Favorite		저장함/즐겨찾기		お気に入り		Favorito		Избранное					
+text_deletebox		已删除				Deleted faxes		휴지통		ゴミ箱　		Papelera		Корзина					
+action_search_fax		搜索传真				Search fax		팩스 검색		ファクスを検索		Buscar fax		Поиск факса					
+action_reply		回复				Reply		회신		返信		Responder		Ответить					
+action_forwarding		转发				Forward		전달		転送		Adelantar		Переслать					
+action_zoom_out		缩小				Zoom out		축소		縮小		Alejar		Уменьшить					
+action_zoom_in		放大				Zoom in		확대		拡大		Acercar		Увеличить					
+action_rotate		旋转				Rotate		회전		回転		Rotar		Вращать					
+action_print		打印				Print		인쇄		プリント		Imprimir		Печать					
+action_delete		删除				Delete		삭제		削除		Eliminar		Удалить					
+action_collect		收藏				Add to favorite		저장		お気に入りに追加する		Agregar a favorito		Добавить в избранное					
+action_send_to_admin		发送至admin				Send to admin		admin에게 팩스 전송		adminへ送信		Enviar a admin		Отправить администратору					
+action_add_remarks		添加备注				Add remarks		비고 추가		備考を付ける		Agregar observaciones		Добавить примечание					
+																			
+text_my_device		我的设备				My device		내 디바이스		マイ設備		Mi dispositivo		Мое устройство					
+text_message		消息				Message		메세지		メッセージ		Mensaje		Сообщение					
+text_contacts		联系人				Contacts		주소록		連絡先		Contactos		Контакты					
+text_set_up		设置				Set up		설정		設定		Configuración		Настройка					
+text_help		帮助				Help		도움말		ヘルプ		Ayuda		Помощь					
+text_sign_out		退出登陆				Log out		로그아웃		ログアウト		Cerrar sesión		Выход					
+																			
+text_no_device_connected		暂无连接设备				No device connected		연결된 디바이스가 없습니다.		接続できる設備がない		No hay dispositivos conectados		Нет подключенного устройства.					
+action_buy_smart_device		去购买智能传真设备				Buy a smart fax device		디바이스 구매		購入しましょう		Comprar un dispositivo inteligente de fax		Сейчас покупать факс сервер.					
+text_tmall		天猫				Tmall.com		Tmall		Tmall.com		Tmall.com		Tmall.com					
+text_official_website		官网				Official website		공식 사이트		公式サイト		Sitio web oficial		Официальный сайт					
+text_jd		京东				JD.com		JD.com		JD.com		JD.com		JD.com					
+action_add_device		添加设备				Add a device		디바이스 추가		設備を追加		Agregar un dispositivo		Добавить устройство					
+text_added_device		已添加的设备				Added device		추가된 디바이스		追加した設備		Dispositivos agregados		Добавленные устройства					
+text_admin		管理员				Admin		관리자		管理者		Administrador		Администратор					
+text_distributor		分发员				Distributor		분배자		分配者		Distribuidor		Распределитель					
+text_users		普通用户				Users		일반 사용자		一般的なユーザー		Usuario		Пользователь					
+																			
+action_find		发现				Find		찾기		発見		Encontrar		Найти					
+action_assign		指定				Assign		사용자 정의		指定		Asignar		Назначать					
+text_searching_device		正在搜索设备…				Searching devices		디바이스 검색 중		設備を検索中		Buscando dispositivos...		Поиск устройства ...					
+action_buy_new_smart_device		购买新的智能传真设备				Buy a new smart fax device		디바이스 구매		新しいスマートFAX設備を購入しましょう		Comprar nuevo dispositivo inteligente de fax		Покупать новый факс сервер.					
+text_no_device_found		未发现任何设备				No device found		디바이스 찾기에 실패하였습니다.		設備が発見されない		No encuentra ningún dispositivo		Не найдено любое устройсво. 					
+text_please_power_on_the_device		请给设备通电				Please power on the device		디바이스 전원 연결 및		設備を通電してください		Conecte el dispositivo con alimentación		Включайте устройство					
+text_connect_to_network_with_ethernet_cable		并通过网线接入网络				and connect it to network with Ethernet cable		네트워크에 접속해 주세요.		ケーブルでネットと繋がってください		y conecte a LAN con cable Ethernet		и подключайте к Интернету сетевой кабелью.					
+text_power_on_the_device		接入电源				Power		전원 연결		Power		Conectar al alimentación		Подключение адаптера					
+text_connect_to_network		接入网络				LINE		인터넷 연결 		LINE		Conectar a LAN		Подключение сетевого кабеля					
+text_connect_to_telephone_line		接入电话线				LAN		전화선 연결		LAN		Conectar línea telefónica		Подключение телефонного кабеля					
+text_mobile_phone_is_not_in_the_same_LAN_with_the_device		手机与设备不在同一个局域网内？				Mobile phone and device not in the same LAN		휴대폰과 팩스 서버가 같은 로컬 네트워크(LAN)상에 접속되지 않은 경우		スマホと設備が同じLANではない		El móvil y el dispositivo no comparten la misma LAN		Мобильный телефон и устройство не в одной локальной сети?					
+text_please_use_assign_add_device		请用"指定"添加设备				Please use "Assign" to add device		"사용자 정의"메뉴를 통해 디바이스를 추가해 주세요.		「指定」で設備を追加		Pulse ¨Asignar¨ para agregue dispositivos		Нажмите "Назначить" для добавления устройства.					
+text_device_id_or_ip_address		设备ID或IP地址				Device ID or IP address		디바이스 ID 또는 IP 주소		設備のID又はIPアドレス		ID o IP del dispositivo		ID или IP-адрес устройства					
+text_device_account		设备帐号				Device account		디바이스 계정		設備のアカウント		Cuenta del dispositivo		Аккаунт устройства					
+text_device_password		设备密码				Device password		디바이스 비밀번호		設備のパスワード		Contraseña del dispositivo		Пароль устройства					
+action_verify		验证				Verifying		인증		検証		Comprobar		Подтверждение					
+action_cancel		取消				Cancel		취소		キャンセル		Cancelar		Отмена					
+tips_please_enter_device_account_and_password		请输入设备帐号和密码				Please enter device account and password		디바이스 아이디와 비밀번호를 입력해 주세요. 		アカウントとパスワードをご入力		Entrar cuenta y contraseña del dispositivo		Введите аккаунт и пароль устройства.					
+action_add		+ 添加				+ Add		+ 추가		+ 追加		+ Agregar		+ Добавить					
+																			
+text_send_fax		发送传真				Send fax		팩스 전송		FAX送信		Enviar fax		Новый факс					
+text_recipients		收件人				Recipient(s)		수신인		受信先		Destinatario		Кому					
+text_fax_no		传真号				Fax number		팩스번호		FAX番号		Número de fax		Номер факса					
+text_fax_cover		传真封面				Cover page		팩스 커버/표지		FAXカバー		Portada de fax		Обложка факса					
+text_fax_pages		传真内容页				Fax page		팩스 본문		FAX内容		Contenido de fax		Содержание факса					
+action_add_recipients		增加收件人				Add recipients		수신인 추가		受信先を追加		Agregar destinatarios		Добавить получателя					
+action_send		发送				Send		전송		送信		Enviar		Отпр.					
+text_choose_fax_file_from		传真文件来自				Choose fax file from		새 팩스 생성		新規FAX		Elija un archivo de fax		Новый факс					
+text_photos		相册				Photos		이미지		写真		Álbum		Галерея					
+text_camera		相机				Camera		카메라		カメラ		Cámara		Камера					
+text_folders		文件夹				Folders		폴더		ファイアウォール		Carpeta		Папка					
+																			
+text_B5_paper		B5纸				B5 paper		B5용지		用紙（B５）		Papel B5		Бумага B5					
+text_A4_pager		A4纸				A4 paper 		A4용지		用紙（A4）		Papel A4		Бумага A4					
+text_receipt		收据				Receipts		영수증		レシート		Recibo		Квитация					
+text_invoice		发票				Invoices		송장		領収証		Factura		Счет-фактура					
+text_shipping_label		快递单				Shipping labels		운송번호		送り状		Etiqueta de envío		Накладная					
+text_sign		签名				Sign		사인		サイン		Firma		Запись					
+																			
+action_crop		裁剪				Crop		자르기		トリミング		Cortar		Обрезка					
+text_ink_concentration		墨水浓度				Darkness 		잉크 농도		インク量		Densidad de tinta		Канцетрация чернил					
+action_signature		签章				Signature		서명날인		サインと捺印		Firma y sello		Запись и печать					
+																			
+																			
+tips_crop_aborted		是否放弃裁剪				Are you sure to quit cropping?		자르기 작업을 포기하시겠습니까?		破棄するか？		Dejar de cortar?		Вы не хотите продолжать вырезку?  					
+tips_sure_to_exit_the_editor		确定退出此次编辑		新建传真界面按后退键时的弹窗提示		Are you sure to exit editing?		계속 나가기 하시겠습니까?		編集を破棄するか？		Cancelar la edición		Вы подтвердите выйти из редактирования?					
+																			
+text_success		发送成功				Success		전송 성공		送信成功		Enviado		Факс успешно отправлен.					
+text_failed		发送失败				Failed		전송 실패		送信失敗		Fallo de Envío		Не удалось отправить факс.					
+text_sending_fax		正在发送传真				Sending		팩스 전송중		FAX送信中		Enviando		Отправляет факс.					
+text_submitting		正在提交				Submitting		업로드 중		提出中		Entregando		Представлено					
+text_unsubmitted_fax		未提交		传真发件箱的发送状态		Unsubmitted		업로드 실패		未提出		No entregado		Не представлено.					
+text_waiting		排队中				Waiting		라인 대기중		行列中		Esperando en cola		В очереди					
+																			
+tips_underway		进行中				Sending 		처리중		処理中		Procesando		Отправка...					
+tips_finished		已结束				Finished		처리 완료		処理済		Cumplido		Отправлено.					
+																			
+action_search		搜索				Search		검색		検索		Buscar		Поиск					
+text_no_contacts		暂无联系人				No contact created yet		연락처가 없습니다.		連絡先には何もない		Ningún resultado		Пустые					
+																			
+text_edit_contact		编辑联系人				Edit contact		주소록 편집		連絡先を編集		Editar contacto		Редак. контакта					
+text_new_contact		新建联系人				Create new contact								Новый контакт					
+text_import_contact		导入联系人				Import contact								Импорт контактов					
+text_name		姓名				Name		이름		名前		Nombre		Полное имя					
+text_company		公司				Company		회사명		会社		Compañía		Компания					
+text_remarks		备注				Remarks		비고		備考		Observaciones		Примечание					
+text_mark_as_starred_contact		标为星标联系人				Mark as starred contact		즐겨찾기에 추가		スター付き		Añadir a favoritos		Добавить в избранное					
+																			
+hint_please_enter_remarks		请输入备注信息				Please enter remarks		비고 입력		備考を付けて		Entrar observaciones		Введите примечание					
+hint_please_enter_contact_name		请输入联系人姓名				Please enter contact's name		이름 입력		連絡先の名前を入力して		Entre nombre de contacto		Введите имя и фамилию					
+hint_please_enter_contact_family_name		请输入联系人姓氏				Please enter last name		성을 입력해 주세요.						Введите фамилию					
+-		请输入联系人名字				Please enter first name		이름을 입력해 주세요.						Введите имя					
+hint_please_enter_fax_number		请输入传真号				Please enter fax number		팩스번호 입력		FAX番号を入力して		Entre número de fax		Введите номер факса					
+action_add_fax_number		添加传真号				Add another fax number		팩스번호 추가		FAX番号を追加		Agregar número de fax		Добавить номер факса					
+text_custom_tag		自定义标签名称				Custom tag		사용자 정의 명칭		名称のカスタマイズ		Personalizar nombre de etiqueta		Добавить теги					
+tips_please_input_name		请输入名称				Please enter group name		그룹명을 입력해 주세요.		名称を入力		Introduzca nombre		Введите название					
+																			
+desc_fax		传真				Fax 		팩스 		FAX		Fax		Факс					
+desc_home		住宅				Home		집 		住宅		Casa		Квартира					
+desc_company		单位				Company		회사		会社		Oficina		Компания					
+desc_personal		私人				Personal 		개인		プライベート		Privado		Личный					
+desc_other		其他				Others		기타		その他		Otros		Другие					
+desc_custom		自定义				Custom		사용자 정의		カスタマイズ		Personalizar		Настройки					
+																			
+text_group		群组				Group		그룹명		グループ		Grupo		Группы					
+text_star_contacts		星标联系人				Starred contacts		연락처 즐겨찾기		スター付く連絡先		Contactos favoritos		Помеченные контакты					
+																			
+text_classified_group		所属群组				Classified group		그룹		グループ		Grupo		Группы					
+text_contact_history		来往记录				Contact history		송수신 기록		履歴		Historial de fax		История факса					
+action_delete_contact		删除联系人				Delete contact		연락처 삭제		連絡先を削除		Eliminar contacto		Удалить контакт					
+action_wipe_record		清空记录				Empty records		기록 비우기		履歴を削除		Borrar historial		Очистить историю					
+																			
+tips_synchronizing_fax		正在同步传真，剩余%d份				Synchronizing. %d faxes left.		데이터 가져오기%d페이지 남음		FAXを同期中、残り%d封		Sincronizando faxes queda%d		Сихронизация факсов еще %d					
+text_show_more		显示全部[共%d页]				More [%d pages]		모두 보기[총 %d페이지]		全て表示「総計%d封」		Mostar todo [%dpáginas en total]		Все [Всего %d]					
+text_less		收起				Less		가리기		非表示		Esconder		Скрыть					
+tips_twice_password_incorrect		两次密码不同请重新输入				Password incorrect. Please try again.		비밀번호가 일치하지 않습니다.다시 입력해 주세요.		二回のパスワードが一致しません。改めて入力してください。		No coinciden las contraseñas ingrese de nuevo		Пароли не совпадают. Повторите ввод пароля. 					
+tips_account_created		创建帐号成功				Account created		계정 새로 만들기가 완료되였습니다.		アカウントを作成した		Cuenta creada		Успешно создать учетную запись. 					
+tips_please_check_recipient_info		请检查收件人信息是否正确				Please check on recipient's information		수신인 정보의 정확여부 확인해 주세요.		受信先の情報を確認してください		Compruebe las informaciones del destinatario		Подтвердите правильность информации получателя. 					
+tips_please_add_fax		请添加传真				Please add fax		팩스문서 추가후 다시 진행해 주세요.		FAXを追加してください		Agregue un fax		Добавьте факс.					
+tips_coming_soon		敬请期待				Coming soon		Coming soon!		お楽しみください		Esta función saldrá próximamente		Следите за обновлениями					
+msg_local_account_intro		本地帐号的配置数据仅保存在您当前的电脑里				Setting data of local account is stored on your current computer only		로컬 계정의 설정옵션에 관한 데이터는 현재 사용하시는 컴퓨터에만 보존됩니다.		ローカルアカウントの設定は当面のパソコンのみ保存される		Los datos de configuraciones de cuentas locales sólo se guardan en este ordenador		Данные по настройке местной учетной записи сохраняются только на вашем компьютере.					
+msg_cloud_account_intro		云帐号可以让您在多终端之间同步配置数据				Cloud account data syncs on multiple devices		클라우드 계정인 경우 여러 단말기간의 데이터 모두 동기화됩니다.		クラウドアカウントの設定は複数の端末機器に保存される		La cuenta cloud sincroniza datos de configuración entre múltiples dispositivos		Облачная учетная запись позволяет синхронизацию настройки по данным между терминалами.   					
+action_switch_account		切换帐号				Switch account		로그아웃		アカウントをチェンジ		Cambiar de cuenta		Изменение учетной записи					
+action_clean_up_data		清理数据				Clean up data		데이터 삭제		データを削除		Borrar datos		Очистить данные					
+tips_ask_clean_up_data_with_unrecoverable		您确定要清理所有数据吗？（操作不可恢复）				Are you sure to clean up all data? (This cannot be undone)		모든 데이터를 삭제하시겠습니까?(삭제 완료후 데이터 복원이 어렵게 됩니다.)		全てのデータを削除するか？（ご注意：回復できない）		¿Seguro que quiere borrar todos los datos? (No se recuperarán)		Вы подтвердите очистить все данные? (Действие не восстанавливается)					
+tips_ask_quit_and_change_other_account		您确定要退出，更换其他帐号登录吗？				Are you sure to exit and log in with another account?		로그아웃후 다른 아이디로 로그인하시겠습니까?		ログアウトして、他のアカウントとしてログインするか？		¿Seguro que quiere salir para iniciar sesión con otra cuenta?		Вы подтвердите выйти и изменить другую учетную запись? 					
+tips_network_unavailable		当前网络不可用，请检查您的网络设置				Network unavailable. Please check your network settings.		네트워크 연결이 끊어졌습니다.네트워크 설정을 다시 확인해 주세요.		当面のネットワークが使用できないのでチェックしてください。		No está conectado a la red actual. Examine su configuración de red.		Сеть недоступа. Проверьте состояние сети. 					
+tips_no_account_found		帐号不存在，请重新输入				Account does not exist. Please try again.		존재하지 않는 아이디입니다.다시 입력해 주세요.		アカウントが存在しない。改めて入力してください。		No existe la cuenta ingrese de nuevo		Учетная запись не существует. Повторите ввод. 					
+tips_password_incorrect		密码错误，请重新输入				Password incorrect. Please try again.		비밀번호가 틀렸습니다.다시 입력해 주세요		パスワードが正しくない。改めて入力してください。		Contraseña incorrecta ingrese de nuevo		Пароль не верный. Повторите ввод. 					
+tips_account_or_password_error		帐号或密码错误，请重新输入				Account or password incorrect. Please try again.		아이디 또는 비밀번호가 틀렸습니다.다시 입력해 주세요.		アカウント又はパスワードが正しくない。改めて入力してください。		cuenta o contraseña incorrecta ingrese de nuevo		Учетная запись и пароль не верные. Повторите ввод. 					
+text_failed_to_get_remote_IP_address		获取设备远程IP地址失败				Failed to obtain IP address of remote device		디바이스의 원격 IP주소 가져오기에 실패하였습니다.		設備のリモートIPアドレスが獲得できない		Error al obtener IP remoto del dispositivo		Не удалось получить удаленный IP-адрес устройства.					
+tips_cannot_login_remote_devices_with_admin		不能使用"admin"帐号登录远程设备				You can't use "admin" account to remote log in device		"admin"아이디인 경우 원격로그인이 불가능합니다.		「admin」はリモートアクセスできない		No puede iniciar sesión remoto con cuenta de admin		Не может войти в устройство под "Администратор."					
+tips_unknown_error		未知错误				Unknown error		알수 없는 에러 		未知のエラー		error desconocido		Ошибка неизвестная					
+text_smart_fax		智能传真				Smart fax		스마트 디바이스		スマートファクス		fax inteligente		Смарт факс					
+text_please_enter_password		请输入登录密码				Please enter login password		비밀번호를 입력해 주세요.		パスワードを入力してください		Ingrese contraseña para iniciar sesión		Введите пароль					
+tips_please_scan_qr_code_to_login_with_faxgo		请使用"FAXGO手机客户端"扫描二维码登录				Please use "FAXGO mobile app" to scan to log in		"FAXGO모바일 앱"으로 스캔하여 로그인해 주세요.		APPでスキャンとログイン		Escanee el código QR con app de FAXGO para iniciar sesión		Отсканировать QR-код для входа в FAXGO программе					
+tips_ask_delete_the_account		确定要删除帐号吗?				Are you sure to delete account?		아이디를 삭제하시겠습니까?		アカウントを削除するか？		¿Seguro que quiere eliminar la cuenta?		Вы действительно хотите удалить эту учетную запись? 					
+text_release_mouse_add_fax_pages		松开鼠标添加传真内容页				Release mouse to add fax page		마우스 드롭하여 팩스 본문 추가		マウスをリリースしてFAXを追加する		Suelte la rata para añadir página de fax		Отпустите кнопку мыши чтобы добавить факс.					
+text_ask_input_account_and_password		请输入设备的帐号和密码				Please enter device account and password		디바이스 아이디와 비밀번호 입력		設備のアカウントとパスワードを入力してください		Introduzca cuenta y contraseña del dispositivo		Введите аккаунт и пароль устройства.					
+text_not_same_lan_computers_and_devices		电脑和设备不在同一局域网内？				Computer and device not in the same LAN?		휴대폰과 팩스 서버가 같은 로컬 네트워크(LAN)상에 접속되지 않은 경우		スマホと設備が同じLANではない		El ordenador y el dispositivo no comparten la misma LAN		Компьютер и устройство не в одной локальной сети?					
+error_connection_timeout		连接超时				Connection timed out		연결 시간 초과		タイムオーバー		Conexión expirada		Тайм-аут подключения					
+error_operation_timedout		操作超时				Operation timed out		작업 시간 초과		タイムオーバー		Operación expirada		Тайм-аут обработка!					
+error_app_exception_occurred		应用程序发生了异常！				An exception occurred		에러 발생		プログラムが異常だ		¡Error del programa!		Обнаружена ошибка!					
+tips_empty_data_and_restart_program		清空所有数据并重启程序				Clear all data and restart app		모든 데이터 삭제 및 프로그램 다시 시작		全てのデータを削除してプログラムを再起動する		Borrar todos datos y reiniciar el programa		Очистить все данные и перегрузить программу.					
+text_continue_run_program_whether_consequences		继续运行程序(可能出现未知后果)				Continue to run app (there might be unknown concequences) 		프로그램을 계속 작동하시겠습니까?(계속하여 진행하실경우 알수 없는 에러가 발생할수 있습니다.)		プログラムを続き運行する（エラーの可能性がある）		Seguir ejecutando el programa (puede causar resultados desconocidos)		Продолжать запуск программы (могут произойти неизвестные последствия)					
+action_reboot_program		重启程序				Restart 		프로그램 다시 시작하기		プログラムを再起動		Reiniciar programa		Перегрузка программы					
+action_exit_program		退出程序				Exit 		프로그램 끝내기/나가기		プログラムを終了		Salir del programa		Выход из программы					
+action_view_log		查看日志				View log		로그 보기		ログをチェック		Ver registros		Просмотр журнала					
+tips_recipient_not_null		收件人不能为空				Recipient can't be empty		수신인을 입력해 주세요.		受信先を入力して		Hay que entrar destinatario		Получатель не может быть пустым					
+																			
+tips_device_permission_verify_failed		设备使用权限验证失败				Device permission verification failed		디바이스 사용 권한 인증 실패		設備の使用権限が検証できない		Error al verificar el permiso del dispositivo		Разрешение по использованию не доступно.					
+tips_connect_device_failed		无法连接设备				Failed to connect to device		디바이스 연결에 실패하였습니다.		設備と繋がらない		Error al conectar el dispositivo		Устройство не подключено.					
+tips_device_id_not_match		设备ID不匹配				Device ID does not match		디바이스 ID와 일치하지 않습니다.		設備のIDが一致しない		No coincide el ID del dispositivo		ID устройство не совпадает.					
+tips_failed_to_find_device		未找到该设备				Failed to find the device		디바이스 찾기에 실패하였습니다.		該当設備が検索できない		Dispositivo no encontrado		Устройство не обнаружено.					
+																			
+action_added		已添加				Added				追加済		Añadido		Добавлено.					
+tips_generate_fax_files		生成传真文件				Generate fax		팩스파일 생성		FAXファイルを作成		Fax creado		Создать факс					
+tips_transforming		转换中				Converting		전환중		転換中		Convirtiendo		Преобразование...					
+tips_please_choose_device_to_send_fax		请选择一台传真设备进行发送				Choose a fax device to send		팩스 디바이스 선택		設備を選択して送信する		Elija un dispositivo de fax para el envío		Выберьте устройство чтобы отправить факс. 					
+tips_transform_finish		转换完成				Converted		전환 성공		転換済		Conversión cumplida		Преобразование завершено.Преобразование завершено.					
+text_leave_for		前往				Go to		바로 가기		購入しましょう		Ir a		Покупайте на					
+text_open_access		开启权限				Enable permission		권한 허용		権限を許可		Abrir permiso		Права доступна.					
+text_reset_the_app_permissions		重新设置APP权限				Reset app permissions		APP 권한 재설정		APP権限を再設定		Volver a configurar los permisos de APP		Снова настройте разрешение программы.					
+tips_no_device_to_send_faxes		没有传真设备无法发送传真				No fax device. You can't send fax.		연결된 디바이스가 없는 관계로 팩스 전송이 불가능합니다.		設備を選択してから送信してください		No se puede enviar fax sin aparatos de fax		Устройство не существует. Нельзя отправить факс.					
+tips_need_sd_card_operation_permissions		需要SD卡操作权限		手机权限不足时的弹窗提示		Need SD card permission		SD카드 권한 허용을 필요로 합니다.		SDカードの権限が必要		Hace falta permiso de operación para tarjeta de SD		Нужна права SD-карта					
+text_select_file		选择文件				Select file		파일 선택		ファイルを選択		Seleccionar archivos		Выбор файла					
+tips_need_camera_operation_permissions		需要摄像头权限		手机权限不足时的弹窗提示		Need to use camera		카메라 권한 허용을 필요로 합니다.		カメラの権限が必要		Hace falta permiso para cámara		Нужна права камеры					
+tips_loading		加载中				Loading		로딩중		ダウンロード中		Cargando		Идет загрузка...					
+text_exit		退出				Exit		나가기		終了		Salir		Выход					
+text_continue_edit		继续编辑				Continue editing		계속 편집하기		続き		Seguir editando		Далее					
+tips_processing		处理中				Processing		처리중		処理中		Procesando		Идет обработка...					
+tips_please_enter_the_content		请输入内容				Please enter content		텍스트 추가		ここで入力してください		Entre contenido de texto		Введите содержание.					
+text_flashlight		闪光灯				Flashlight		후레시		フラッシュ		Flash		Вспышка					
+text_voice		声音				Sound		음성		音		Voz		Звук					
+tips_picture_failed		拍照失败				Take picture failed		촬영 실패		写真できない		Error al hacer fotos		Не удалось фотографировать.					
+tips_data_flow_resolution_failed		数据流解析失败		拍照后的图片解析错误的提示		Failed to parse data stream		데이터 스트림 분석 실패		データの解析ができない		Error al analizar flujo de datos		Не удалось анализировать поток данных.					
+text_custom_name		自定义名称				Custom name		사용자정의 명칭		名称のカスタマイズ		Personalizar nombres		Настройка по названию					
+text_can_not_be_empty_characters		不能为空字符		不能输入空的数据		Cannot be empty		입력란을 비워 둘 수 없습니다.		空白にはならない		No pueden ser caracteres nulos		Не может быть пустого символа					
+text_please_enter_new_name		请输入新的名称				Please enter new name		새 그룹명을 입력해 주세요		新しい名称を入力して		Entre nuevo nombre		Введите новое название. 					
+tips_delete_this_contact		是否删除该联系人?				Are you sure to delete contact?		연락처를 삭제하시겠습니까?		該当連絡先を削除するか？		¿Eliminar este contacto?		Вы действительно хотите удалить контакты?					
+text_new_group_success_and_add_contact		新建群组成功请添加联系人				New group created. Please add contact.		그룹 새로 만들기가 완료되였습니다.연락처를 추가해 주세요.		新グループが作成した。連絡先を追加してください		Grupo creado. Agregue contactos.		Новая группа успешно добавлена. Добавьте контакты. 					
+																			
+tips_added_device_success		添加设备成功				Device added		디바이스가 추가되였습니다.		設備が追加済		Dispositivo añadido		Устройство успешно добавлено.					
+tips_connecting_device		正在连接设备...				Connecting 		디바이스에 연결합니다.		接続中		Conectando		Подключение к устройству...					
+																			
+text_no_device		暂无设备		没有发现传真设备空界面显示的提示文字		No device found		연결된 디바이스가 없습니다.		設備がない		No encuentra ningún dispositivo		Не обнаружено устройство.					
+action_quit		放弃				Quit		나가기		終了		Cancelar		Отмена					
+action_continue		继续				Continue		계속		続き		Seguir		Далее					
+tips_no_device_send_fax		您尚未添加传真设备，传真将无法发送，您确定要继续编辑吗?				You haven't add any fax device yet. You will not be able to send fax out. Do you want to continue editing?		연결된 디바이스가 없는 관계로 팩스 전송이 불가능합니다. 계속 편집 진행하시겠습니까?		FAX設備がないから送信できません。編集を続けますか？		No se puede enviar fax sin aparatos de fax. ¿Seguro que quiere seguir editando?		Вы ещё не добавили устройство не может отправить факс. Вы подтвердите продолжать редактировать? 					
+tips_account_already_exists		该帐号已被创建				Account already exist		이미 사용장인 아이디입니다.		既存のアカウントです		Esta cuenta ya está en uso		Эта учетная запись уже создана.					
+text_loading		正在加载				Loading		로딩 중		ダウンロード中		Cargando		Идет загрузка...					
+text_select_recipients		选择收件人				Choose recipient		수신인을 선택해 주세요.		受信先を選択して		Seleccione destinatarios		Выбор получателя					
+tips_enter_contact_company		请输入联系人公司				Please enter contact's company		연락처 회사명을 입력해 주세요.		受信者の会社名を入力して		Entre compañía de contacto		Введите компанию контактов. 					
+action_try_again_exit_program		再按一次退出程序		Android双击后退键的功能提示		Tap again to exit		다시 한번 탭하여 프로그램 나가기		もう一度タップして終了		Pulse de nuevo para salir		Нажмите еще раз для выхода					
+																			
+tips_please_select_contacts		请选择联系人				Please choose a contact		연락처를 선택해 주세요.		受信先を選択して		Elija un contacto		Выберьте контакты. 					
+tips_no_match_search_result		无相关搜索结果				No result		검색결과가 없습니다.		関連結果がない		No hay resultado		Нет результата поиска					
+tips_can_not_crop		无法裁剪图片				Failed to crop picture		자르기 작업을 진행할수 없습니다.		トリミングできない		Error al cortar la imagen		Не может обрезать фото.					
+tips_error		错误				Error		에러		エラー		Error		Ошибка					
+tips_reminder		提示						알림		提示		Nota							
+tips_grant_authority_camera		请开启相机和SD卡操作权限				Faxgo would like to acccess camera and SD card		카메라와 SD카드의 사용 권한 허용을 필요로 합니다.		カメラとSDカードの権限が必要		Abra permiso para cámara y tarjeta de SD		Выключайте права SD-карты и камеры					
+tips_grant_authority_sdcard		请开启SD卡操作权限				Faxgo would like to acccess SD card		SD카드 권한 허용을 필요로 합니다.		SDカードの権限が必要		Abra permiso para la tarjeta de SD		Выключайте права SD-карты					
+action_open		开启				OK		열기		開く		Abrir		Открыт					
+action_close		关闭				Don't Allow		닫기		閉める		Cerrar		Закрыт					
+action_auto		自动				Auto		자동		自動		Auto		Авто					
+action_torch		手电		相机拍照的闪光灯模式		Flashlight		후레시		フラッシュ		Antorcha		Фонарик					
+toast_complete_your_msg		请完善您的信息				Please complete your information		정보를 보안해 주세요.		個人情報を完成してください		Complete sus informaciones		Заполните вашу информацию.					
+action_connect_device		+ 添加新设备				+ add new device		+디바이스 추가		+新しい設備を追加		+ agregar nuevo aparato		+ добавить новое устройство					
+msg_connect_mine_device		连接我的智能传真设备				Connect to my smart fax device		나의 스마트 팩스 디바이스 연결		マイスマートFAX設備と繋ぐ		Conectar mi aparato de fax inteligente		Подключение к моего смарт факса					
+msg_connect_share_device		连接他人分享的智能传真设备				Connect to shared smart fax device		공유된 스마트 팩스 디바이스 연결 		他人のスマートFAX設備と繋ぐ		Conectar aparatos de fax compartidos por otros		Подключение к другим смарт факсам					
+action_next_step		下一步				Next		다음		次に		Siguiente		Далее					
+msg_device_id		设备ID				Device ID 		디바이스 ID		設備のID		ID de aparato		ID устройсва					
+msg_device_name		设备名称				Device name		디바이스 명칭		設備の名称		Nombre de aparato		Название устройства					
+action_delete_device		删除设备				Delete device		디바이스 삭제		設備を削除		Eliminar aparato		Удалить устройство					
+action_share_device		分享设备				Share device		디바이스 공유		設備をシェア		Compartir aparato		Доступ устройства					
+action_manage_device		管理设备				Manage device		디바이스 관리		設備の管理		Manejar aparato		Управление устройством					
+action_have_device_pwd		我有设备密码				I have device password		디바이스 비밀번호		設備のパスワードを持っている		Tengo contraseña del aparato		У меня есть пароль устройства.					
+action_request_share		请求分享				Ask for share		디바이스 공유 신청				Solicitar comparsión		Просьба доступа					
+action_decontrol_device		解除%设备管理权				Disable device management permission for %		%디바이스 관리 권한 취소		％の管理権限を解除		Eliminar autoridad administrativa de％							
+text_all_photos		全部照片				All photos		모든 사진		全ての写真		todas las fotos		Все фото					
+action_preview		预览				Preview		열람		プレビュー		Prever		Просмотр					
+mis_msg_amount_limit		已达到最大数量				You  have added maximum photots		최대 9개 이미지 선택 가능		最大数量に達する		Alcanzado límite máximo		Достигнуто максимальное количество фото.					
+mis_photo_unit		张		照片的数量单位		Photos		장		枚		fotos		фото					
+mis_error_no_permission		没有权限				No permission		권한 없음		権限がない		No tiene permiso		Нет прав.					
+action_refuse		拒绝				Denied		거절		拒否		Negado		Не доступно.					
+action_finish		完成				Finished		완료		完成		Cumplido		Завершено.					
+text_choose_group_member		选择群组成员		新建群组时添加群组成员的操作		Choose group member		그룹 멤버 추가		グループメンバーを選択		Elegir miembros del grupo		Выбор члена группы					
+text_group_name		群组名称				Group name		그룹명		グループ名		Nombre del grupo		Название группы					
+tips_maximum_input_characters		最多只能输入%d个字符		"%d"是占位符不用翻译		You can enter up to %d characters 		최대 %d글자수 입력 가능		最大値は%d文字		No puede sobrepasar %dcarácteres		Максимальное количество символа %d 					
+text_no_more_data		没有更多数据				No more data				これ以上のデータがない		No hay más datos		Нет больше данных					
+text_device_detail		设备详情				Device information		디바이스 정보		設備の情報		Detalles sobre el aparato		Подробности устройства					
+text_version_and_status		版本与状态				Version and status		버전 정보 		バージョン		Versión y estado		Версия и состояние					
+text_fax_setting		传真设置				Fax settings		팩스 설정		FAX設定		Configuración de fax		Настройки факса					
+text_email_setting		Email设置				Email settings		이메일 설정		メール設定		Configuración de email		Настройки Email					
+text_network_setting		网络设置				Network settings		네트워크 설정		ネット設定		Configuración de red		Сетевые настройки					
+text_time_and_timezone		时间与时区				Time and region		시간 및 지역		時刻とタイムゾーン		Tiempo y Zona horaria		Время и регион					
+text_cut_fragment		裁切		传真编辑裁切界面标题栏		Crop		자르기		トリミング		Cortar		Обрезка					
+text_ink_fragment		墨水调节		传真编辑墨水调节界面标题栏		Darkness		잉크 농도 조절		インク量		Ajustar tinta		Канцетрация					
+text_sign_fragment		签章		传真编辑签章界面标题栏		Signature		서명날인		サインと捺印		Firma y sello		Запись и печать					
+																			
+text_hardware_version		硬件版本		传真设备相关参数		Hardware version		하드웨어 버전		ハードバージョン		Versión de hardware		Аппаратная версия					
+text_bios_version		BIOS版本		传真设备相关参数		BIOS version		BIOS 버전		BIOSバージョン		Versión de BIOS		Версия BIOS					
+text_fax_firmware		传真固件		传真设备相关参数		Firmware		펌웨어		FAXファームウェア		Firmware de fax		Прошивка факса					
+text_system_version		系统版本		传真设备相关参数		System version		시스템 버전		システムバージョン		Versión de sistema		Версия системы					
+text_software_version		软件版本		传真设备相关参数		Software version		소프트웨어 버전		ソフトバージョン		Versión de software		Версия программы					
+text_line_status		线路状态		传真设备相关参数		Line status		라인 상태		ライン状態		Estado de línea		Состояние линии					
+text_caller_id		来电制式				Caller ID		CID방식		着信のID		ID de llamada		Идентификация звонящего					
+text_storage_space		存储空间				Storage		저장공간		メモリ空間		Almacenamiento		Хранение					
+																			
+text_company_intro		公司简称				Company name		회사명		会社名		Nombre de compañía		О нас					
+text_fax_number		传真号码				Fax number		팩스번호		FAX番号		Número de fax		Номер факса					
+text_fax_identify		传真标识				CSID		CSID		CSID				CSID					
+text_fax_speed		传真速度				Fax rate		팩스 속도		FAX速度		Velocidad de fax		Скорость факса					
+text_emc		纠错模式				ECM		ECM(에러탐색수정모드)		ECM		Modo de corrección		Режим коррекции ошибок					
+text_voice_tips		语音提示				Voice prompt		음성알림		音声案内		Advertencia de voz		Голосовое указание					
+text_line_send_priority		线路发送优先级				Priority		라인 전송 우선순위		優先順位		Prioridad de línea para envíos		Приориет					
+text_auto_listen_time		自动接听振铃次数				Rings to answer		자동응답 전 진동벨 횟수		ベルを鳴らす回数		Timbres para respuesta automática		Количество авто звонков					
+																			
+text_smtp_server		SMTP服务器				SMTP server		SMTP 서버		SMTPサーバ		Servidor SMTP		Сервер SMTP					
+text_smtp_username		SMTP用户名				SMTP account		SMTP 아이디		SMTPアカウント		Cuenta de SMTP		SMTP логин					
+text_smtp_password		SMTP密码				SMTP password		SMTP 비밀번호		SMTPパスワード		Contraseña de SMTP		SMTP пароль					
+text_send_fax_email		发送传真邮箱地址				Email for sending		발신이메일		送信メールアドレス		Email para envío de fax		Email для отправки					
+																			
+text_mac_address		MAC地址				MAC address		MAC주소		MACアドレス		Dirección MAC		MAC - адрес					
+text_internet_status		Internet状态				Internet status		인터넷상태		インターネット状態		Estado de Internet		Состояние интернета					
+text_ip_configure		IP配置				IP configuration		IP설정		IPコンフィギュレーション		Configuración de IP		Настройки IP					
+text_ip_address		IP地址				IP address		IP주소		IPアドレス		Dirección IP		IP адрес					
+text_subnet_mask		子网掩码				Subnet mask		서브넷 마스크		サブネットマスク		Máscara de subred		Маска подсети					
+text_router		路由器				Router		공유기		ルーター		Enrutador		Роутер					
+text_dns		DNS				DNS		DNS		DNS		DNS		DNS					
+																			
+text_time_zone		时区				Time zone		지역		タイムゾーン		Zona horaria		Часовой пояс					
+text_fsk_time_synchronize		FSK时间同步				Sync with FSK time		FSK 시간 동기화		FSKと同期		Sincronización de hora FSK		Синхронизация времени FSK					
+text_user_permission		使用权限				User permission		사용권한		使用権限		Permiso de uso		Права пользования					
+																			
+																			
+action_yes		是				Yes		네		はい		Sí		Да					
+action_no		不是				No		아니요		いいえ		No		Нет					
+																			
+tips_upload_success		上传成功				Uploaded		업로드 중		アップロード済み		Cargado		Успешно загружено.					
+tips_upload_failed		上传失败				Upload failed		업로드 실패		アップロードできない		Error al cargar		Не удалось загрузить.					
+																			
+text_go_to_shop		前往商城				Go to shop		스토어 바로 가기		購入しましょう		Ir a nuestra tienda online		Покупайте на 					
+																			
+text_disable		禁用				Disable		사용 금지사용 금지		閉める		Prohibido		Запрещено.					
+																			
+text_version_information		版本号信息				Version information		버전 정보		バージョン情報		Informaciones de versión		Номер версии					
+tips_received_new_fax		收到%d份新传真				%d new faxes 		%d개의 새 팩스 수신		%d封の新着信		%dfax(es) recibido(s)		Новый факс %d 					
+																			
+tips_network_connect_failed		网络连接失败				Network connection failed		네트워크 연결 실패		インターネットに接続できない		Error al conectar a LAN		Не удалось подключить к сети.					
+																			
+tips_please_enter_device_information		请完善设备信息				Please complete server information		서버 정보를 보완해주세요.		設備の情報を完備してください		Complete las informaciones del servidor		Выполните информацию устройства.					
+																			
+text_pull_down_to_refresh		下拉刷新				Pull down to refresh		아래로 당겨 새로 고침		プルダウンしてリフレッシュ		Tire hacia abajo para actualizar		Проведите вниз для обновления					
+text_release_to_refresh		松开刷新				Release to refresh		댑하여 새로 고침		リリースしてリフレッシュ		Suelte para actualizar		Отпустите для обновленич					
+text_loading_2		正在刷新...				Loading...		새로 고침		リフレッシュ中		Cargando...		Идет обновление...					
+text_tap_or_pull_up_to_load		点击或上拉加载更多				Tap or pull up to load more		클릭 또는 위로 당겨 새로 고침		タップ又はプルアップしてさらに表示		Clic o tire hacia arriba para cargar más		Проведите вверх для обновления					
+text_loading_3		正在加载...				Loading...		로딩중		ダウンロード中		Cargando...		Идет загрузка...					
+text_last_update		最后更新：		最后下拉刷新的时间，例 “最后更新：2016-09-28 6:10”		Last update:		최근 업데이트		最終更新：		Última actualización:		Последнее обновление:					
+text_today		今天 %s		例子“最后更新：今天 6:10”		Today %s		오늘 %s		今日		%s Hoy		Сегодня					
+																			
+text_send_and_receive		发送: %s   接收: %s		纠错模式开启或关闭 ， 语言提示开启或关闭		Send: %s  Receive:%s 		전송:%s 수신:%s		送信：%s　受信： %s		Enviar: %s  Recibir: %s		Отправка:  %s  Прием: %s 					
+text_send_and_receive_bps		发送: %d bps   接收:%d  bps		传真发送和接收速度		Send: %d bps   Receive:%d bps  		전송:%d bps 수신:%d bps		送信：%d bps　受信：%d bps		Enviar: %d bps   Recibir:%d bps		Отправка: %d bps   Прием: %d  bps					
+																			
+text_line		线路				Line		라인		ライン		Línea		Линия					
+text_unknown		未知		线路状态		Unknown		알수 없음		未知		Desconocido		Неизвестно					
+text_idle		空闲		线路状态		Idle		Idle		空いている		Libre		Свободно					
+text_off_hook		已摘机		线路状态		Off-hook		오프훅		オフフック		Descolgado		Снятие телефона					
+text_sending		发送中		线路状态		Sending		전송중		送信中		Enviando		Идет отправка...					
+text_receiving		接收中		线路状态		Receiving		수신중		受信中		Recibiendo		Идет прием...					
+text_ringing		正在振铃		线路状态		Ringing		진동벨 울림		リンギング		Sonando el timbre		Звонит					
+																			
+text_total_storage		总大小: %dMB		服务器总存储空间		Total storage:  %dMB		총메모리:%dMB		総計：%d MB		Espacio total: %dMB		Всего: %dMB					
+text_available_storage		剩余: %dMB		服务器剩余空间		Available:   %dMB		사용가능:%dMB		残り：%d MB		Disponible: %dMB		Доступно: %dMB					
+text_total_available_storage		总大小: %dMB  剩余: %dMB				Total storage:  %dMB  Available:   %dMB		총메모리:%dMB 사용가능:%dMB		総計：%d MB   残り：%d MB		Espacio total: %dMB   Disponible: %dMB		Всего: %dMB   Доступно: %dMB					
+																			
+text_fax_sending_queue		传真发送队列				Fax sending queue		팩스 전송 작업 리스트		FAX送信待ち		Cola de envíos de fax		Очередь отправки факса					
+text_fax_history		传真历史记录				Fax history		팩스 송수신 기록		FAX履歴		Historial de fax		История факса					
+text_device_voice_log		设备语音监听				Device voice log		디바이스 감청		受送信聞く		Registro de voz del dispositivo		Прослушивание факса 					
+text_device_log		设备日志				Device log		디바이스 로그		ログ		Registro del dispositivo		Журнал устройства					
+text_advanced_variables		设备高级参数				Advanced variables		디바이스 고급설정		高度な設定		Variables avanzados		Дополнительные					
+																			
+tips_ask_delete_fax_page		是否删除该页传真?				Delete this page?		현재 페이지를 삭제하시겠습니까?		このページを削除しますか？		¿Borra esta página?		Вы подтвердите удалить эту страницу факса?					
+																			
+hint_cloud_or_local_account		云帐号/本地帐号				Cloud account/Local account		클라우드 계정/로컬 계정		クラウドアカウント/ローカルアカウント		Cuenta de Cloud/Cuenta local		Облачная учетная запись/Местная учетная запись					
+action_edit_group_name		修改群组名称				Edit group name		그룹명 편집		グループ名を編集		Modificar nombre del grupo		Переименовать					
+action_delete_group		删除群组				Delete group		그룹 삭제		グループを削除		Eliminar grupo		Удалить группу					
+tips_are_you_sure_to_delete_this_group		是否删除该群组?				Are you sure to delete this group?		이 그룹을 삭제하시겠습니까?		このグループを削除しますか？		¿Seguro que quiere eliminar el grupo?		Вы действительно хотите удалить эту группу?					
+tips_are_you_sure_to_delete_this_fax		确定要删除传真吗？				Are you sure to delete this fax?		계속 팩스 삭제하시겠습니까?		このFAXを削除しますか？		¿Seguro que quiere eliminar el fax?		Вы действительно хотите удалить этот факс?					
+text_family_name		姓氏				Last name		성		名字		Apellido		Полное имя					
+action_restore		还原		从删除箱还原传真		Restore		복원		元に戻す		Restaurar		Восстановление					
+action_add_new_group_member		添加新成员		添加联系人到群组		Add new group member		새 멤버 추가		グループメンバーを追加		Agregar nuevo miembro		Добавить контакт в группу					
+tips_this_device_has_been_added		已经添加过该设备请不要重复添加				This device has been added		이미 추가된 디바이스이므로 중복추가가 불가능합니다.		追加済む設備です。重複しないでください。		Este dispositivo ha sido añadido. No vuelva a añadirlo.		Это устройство было добавлено. Не повторяйте попытку.					
+tips_data_has_been_copied_to_the_clipboard		已复制内容到剪贴板				Data has been copied to the clipboard		클립보드에 내용 복사 완료		クリップボードに保存しました		Copiado al portapapeles		Скопировано в буфер обмена					
+tips_please_wait 		请稍候...				Please wait 		잠시만 기다려 주세요.		少々お待ちください		Espere por favor...		Подождите пожалуйста...					
+tips_ask_new_contacts_when_nonexistent		通讯簿没有此联系人是否新建?				Contact does not exist. Crate new contact?		새로운 연락처로 등록하시겠습니까?		新規連絡先を作成しますか？		¿Lo quiere añadir al contacto?		Добвить ли этот получатель в контакты? 					
+action_edit		编辑				Edit		편집		編集		Editar		Редактирование					
+action_select		选择				Select		선택		選ぶ		Elegir		Выбор					
+text_extension		分机号				Extension		내선번호		内線番号		Extensión		Добавочный номер					
+text_delete_device_and_faxes		确定要删除此设备的并清除此设备下的传真吗？				Are you sure to delete this device and all the faxes from it?		디바이스 삭제 및 디바이스의 팩스를 삭제하시겠습니까?		該当設備及びその全てのFAXを削除しますか？		¿Seguro de borrar este dispositivo y todos los faxes?		Удалить это устройство и все факсы?					
+text_remove_device_and_delete_faxes		确定要解除此设备的管理权并清除此设备下的传真吗？				Are you sure to remove management permission on this device and delete all the faxes from it?		디바이스 관리권한 취소 및 디바이스의 팩스를 삭제하시겠습니까?		該当設備の管理権限を取り消し、そして設備の全てのFAXを削除しますか？		¿Seguro de eliminar el permiso de administración para este dispositivo y borrar todos los faxes del mismo?		Снять права управления этого устройства и удалить все факсы? 					
+action_remove_device		解除设备的管理权				Remove management permission on this device		디바이스 관리권한 취소		管理権限を取り消す		Eliminar el permiso de administración para este dispositivo		Снять права управления этого устройства					
+action_stop_sending		取消发送				Stop sending		전송취소		送信中止		Dejar de enviar		Отменить отправку					
+action_upload		开始上传				Upload		업로드중		アップロード開始		Cargar		Начать загрузку					
+action_forward_to_colleagues		内部转发				Forward to colleagues		분배		内部転送		Reenviar a colegas		Внутренняя рассылка					
+action_retry		重试				Retry		재시도		リトライ		Inténtelo de nuevo		Повторите попытку					
+action_add_remarks		添加备注				Add remarks		비고추가		備考を付け		Agregar observaciones		Добавить примечание					
+action_edit_remarks		修改备注				Edit remarks		비고 수정		備考を修正		Editar observaciones		Изменить примечание					
+action_forward_through_email		通过邮件转发				Forward through email		팩스 이메일로 전달		メールで転送		Reenviar a través del email		Переслать по электронной потче					
+action_mark_as_unread		标记为未读				Mark as unread		안 읽음으로 표시		未読にする		Marcar como leído		Отметить как непрочитанные					
+action_save_to_shared_folders		另存到共享				Save to shared folders		공유문서로 저장		名前付けて保存する		Guardar en archivos compartidos		Сохранить в общие документы					
+action_save_as_contact		保存为联系人				Save as contact		주소록에 저장		連絡先として保存		Guardar como contactos		Сохранить в контакты					
+tips_saved		保存成功				Saved		저장 완료		保存済		Guardado		Успешно сохранено					
+text_stopped		已停止				Stopped		취소		中止済		Detenido		Остановлено					
+text_stopping		停止中...				Stopping		취소 중 		中止		Procesando...		Остановка...					
+text_added		添加成功				Added		추가 완료		追加済		Agregado		Успешно добавлено					
+action_save		保存				Save		저장		保存		Guardar		Сохранить					
+action_share		分享				Share		공유		シェア		Compartir		Делиться					
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
