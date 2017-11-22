@@ -1,6 +1,5 @@
 {
   "update": "Yes",
-  "versionCode": 2,
   "versionName": "1.1.0",
   "apk_file_url": "https://github.com/cimsun/cimfax-update/blob/master/cimfax_android.apk?raw=true",
   "update_log": "1，修改相关bug \r\n2，添加自动更新功能 \r\n3，进行代码混淆 \r\n4，添加放弃任务接口，小时内不生成 \r\n5，消费任务手动生成",
