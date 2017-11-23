@@ -1,10 +1,9 @@
 {
-  "update": "Yes",
   "versionCode": 2,
   "versionName": "1.1.0",
-  "apk_file_url": "https://github.com/cimsun/cimfax-update/blob/master/cimfax_android.apk?raw=true",
-  "update_log": "1，修改相关bug \r\n2，添加自动更新功能 \r\n3，进行代码混淆 \r\n4，添加放弃任务接口，小时内不生成 \r\n5，消费任务手动生成",
-  "target_size": "35M",
   "md5":"f6a00520d6d6f71177b815da900a541b",
+  "apkUrl": "https://github.com/cimsun/cimfax-update/blob/master/cimfax_android.apk?raw=true",
+  "updateInfo": "1.修改相关bug\r\n2.添加自动更新功能\r\n3.进行代码混淆\r\n4.相机拍照处理\r\n",
+  "targetSize": "35M",
   "constraint": false
 }
