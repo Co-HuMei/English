@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "md5":"332ec4cd9db80af8553ac67ea04aed61",
   "apkUrl": "https://github.com/cimsun/cimfax-update/blob/master/cimfax_android.apk?raw=true",
   "updateInfo": "1.修改相关bug\r\n2.添加自动更新功能\r\n3.进行代码混淆\r\n4.相机拍照处理\r\n",
