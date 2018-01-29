@@ -1,9 +1,17 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "md5":"332ec4cd9db80af8553ac67ea04aed61",
-  "apkUrl": "https://github.com/cimsun/cimfax-update/blob/master/cimfax_android.apk?raw=true",
-  "updateInfo": "1.修改相关bug\r\n2.添加自动更新功能\r\n3.进行代码混淆\r\n4.相机拍照处理\r\n",
-  "targetSize": "45M",
-  "constraint": false
+  "versionCode": 9,
+  "versionName": "v1.0.8",
+  "apkSize": "39M",
+  "apkUrl": "http://download.cimfax.com/android/faxgo.apk",
+  "md5": "3a55870c2d337e69b810152cc944162b",
+  "constraint": false,
+  "updateInfo": "1.增加手写签名功能\r\n2.修复了一些bug",
+  "updateLogs": {
+    "chinese": "前往商城",
+    "english": "Go to shop",
+    "japanese": "購入しましょう",
+    "korean": "스토어 바로 가기",
+    "russian": "Покупайте на ",
+    "spanish": "Ir a nuestra tienda online"
+  }
 }
