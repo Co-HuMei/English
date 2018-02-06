@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "v1.0.1",
+  "versionCode": 1,
+  "versionName": "v1.0.0",
   "apkSize": "9M",
   "apkUrl": "http://github.com/Co-HuMei/English/blob/master/ASEnglish.apk?raw=true",
   "md5": "3a55870c2d337e69b810152cc944162b",
