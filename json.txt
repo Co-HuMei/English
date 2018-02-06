@@ -1,11 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "v1.0.8",
-  "apkSize": "39M",
-  "apkUrl": "http://download.cimfax.com/android/faxgo.apk",
+  "versionCode": 2,
+  "versionName": "v1.0.1",
+  "apkSize": "9M",
+  "apkUrl": "http://github.com/Co-HuMei/English/blob/master/ASEnglish.apk?raw=true",
   "md5": "3a55870c2d337e69b810152cc944162b",
-  "constraint": false,
-  "updateInfo": "1.增加手写签名功能\r\n2.修复了一些bug",
+  "constraint": true,
   "updateLogs": {
     "chinese": "前往商城",
     "english": "Go to shop",
